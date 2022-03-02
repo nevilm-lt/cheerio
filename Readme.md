@@ -291,9 +291,6 @@ Does your company use Cheerio in production? Please consider [sponsoring this pr
 <a href="https://www.casinoonlineaams.com" target="_blank" rel="noopener noreferrer">
             <img style="max-height:128px;max-width:128px" src="https://images.opencollective.com/casinoonlineaamscom/da74236/logo.png" title="Casinoonlineaams.com" alt="Casinoonlineaams.com"></img>
           </a>
-<a href="https://casinofiables.com/" target="_blank" rel="noopener noreferrer">
-            <img style="max-height:128px;max-width:128px" src="https://images.opencollective.com/casinofiables-com/b824bab/logo.png" title="Casinofiables.com" alt="Casinofiables.com"></img>
-          </a>
 <a href="https://casinoenlineahex.com/" target="_blank" rel="noopener noreferrer">
             <img style="max-height:128px;max-width:128px" src="https://images.opencollective.com/casinoenlinea-hex/b917401/logo.png" title="CasinoEnLineaHex" alt="CasinoEnLineaHex"></img>
           </a>
@@ -317,6 +314,9 @@ Does your company use Cheerio in production? Please consider [sponsoring this pr
           </a>
 <a href="https://kafidoff.com" target="_blank" rel="noopener noreferrer">
             <img style="max-height:128px;max-width:128px" src="https://images.opencollective.com/kafidoff-vasy/d7ff85c/avatar.png" title="Vasy Kafidoff" alt="Vasy Kafidoff"></img>
+          </a>
+<a href="https://www.igamblingsites.com/" target="_blank" rel="noopener noreferrer">
+            <img style="max-height:128px;max-width:128px" src="https://images.opencollective.com/igamblingsites/9380f54/avatar.png" title="iGamblingSites.com" alt="iGamblingSites.com"></img>
           </a>
 <a href="https://medium.com/norch" target="_blank" rel="noopener noreferrer">
             <img style="max-height:128px;max-width:128px" src="https://images.opencollective.com/espenklem/6075b19/avatar.png" title="Espen Klem" alt="Espen Klem"></img>
